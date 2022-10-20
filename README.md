@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My recent projects are now hosted on this [Gitea](https://gitea.nichijou.dev/fkotd).
+
 <!--
 **fkotd/fkotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
